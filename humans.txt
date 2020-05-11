@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    abc abc@hotmail.com abc@twitter.com
 
 # THANKS
 
